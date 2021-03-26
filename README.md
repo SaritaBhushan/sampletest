@@ -6,4 +6,4 @@
 #feel free to choose fields inside model
 #Implement a max heap using python class. Heap should contain an user object and it should heapify based on _id
 
-##Please read instruction of the "Instructions.docx" File for solution and and for implementation.
+# Please read instruction of the "Instructions.docx" File for solution and and for implementation.
